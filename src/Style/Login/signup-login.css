@@ -1,0 +1,52 @@
+.signup .signupForm, .signup .loginForm, .login .signupForm, .login .loginForm {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.signup .signupForm .left, .signup .loginForm .left, .login .signupForm .left, .login .loginForm .left {
+  text-align: center;
+}
+.signup .signupForm .left h1, .signup .loginForm .left h1, .login .signupForm .left h1, .login .loginForm .left h1 {
+  font-size: 42px;
+  margin-bottom: 20px;
+}
+.signup .signupForm .left img, .signup .loginForm .left img, .login .signupForm .left img, .login .loginForm .left img {
+  width: 28em;
+}
+.signup .signupForm .right, .signup .loginForm .right, .login .signupForm .right, .login .loginForm .right {
+  color: #FFF;
+  background-color: var(--blu2);
+  width: 34em;
+  border-radius: 10px;
+  border: 4px solid var(--yell);
+  padding: 15px;
+}
+.signup .signupForm .right .title, .signup .loginForm .right .title, .login .signupForm .right .title, .login .loginForm .right .title {
+  margin-bottom: 20px;
+}
+.signup .signupForm .right .title h2, .signup .loginForm .right .title h2, .login .signupForm .right .title h2, .login .loginForm .right .title h2 {
+  font-size: 28px;
+}
+.signup .signupForm .right .title p, .signup .loginForm .right .title p, .login .signupForm .right .title p, .login .loginForm .right .title p {
+  margin-top: 5px;
+}
+.signup .signupForm .right form .inp, .signup .loginForm .right form .inp, .login .signupForm .right form .inp, .login .loginForm .right form .inp {
+  display: flex;
+  flex-direction: column;
+  width: 60%;
+  margin-bottom: 10px;
+}
+.signup .signupForm .right form .inp input, .signup .loginForm .right form .inp input, .login .signupForm .right form .inp input, .login .loginForm .right form .inp input {
+  height: 2.2em;
+  margin-top: 8px;
+  border: none;
+  border-radius: 3px;
+}
+.signup .signupForm .right form p a, .signup .loginForm .right form p a, .login .signupForm .right form p a, .login .loginForm .right form p a {
+  color: var(--yell);
+  text-decoration: underline;
+}
+.signup .signupForm .right form button, .signup .loginForm .right form button, .login .signupForm .right form button, .login .loginForm .right form button {
+  margin-top: 20px;
+}/*# sourceMappingURL=signup-login.css.map */

@@ -1,0 +1,84 @@
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 8px 120px;
+  background-color: var(--blu1);
+}
+header .links {
+  display: flex;
+  align-items: center;
+  gap: 25px;
+}
+header .links .profile img {
+  width: 30px;
+}
+header .links ul {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+header .links ul a {
+  color: #FFF;
+  font-size: 18px;
+}
+header .logo img {
+  width: 200px;
+}
+
+footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 7px 0;
+  background-color: var(--red1);
+}
+footer p {
+  color: #FFF;
+  font-size: 18px;
+}
+
+.word-card {
+  width: 12em;
+  height: 18em;
+  padding: 10px;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(-30deg, #e8e8e8, white);
+  box-shadow: 3px 3px 1px 0px var(--yell);
+}
+.word-card img {
+  width: 110px;
+  margin-bottom: 10px;
+}
+.word-card .en-w {
+  text-align: center;
+  font-size: 30px;
+  margin-bottom: 10px;
+}
+.word-card .ar-w {
+  font-size: 20px;
+  font-weight: normal;
+  margin: 10px 0;
+}
+.word-card .sentence {
+  text-align: center;
+}
+
+.btn {
+  background-color: var(--yell);
+  color: #FFF;
+  border: none;
+  border-radius: 4px;
+  width: 7em;
+  height: 2.4em;
+  font-size: 18px;
+  font-weight: 600;
+}
+.btn:hover {
+  opacity: 0.9;
+  cursor: pointer;
+}/*# sourceMappingURL=allComps.css.map */

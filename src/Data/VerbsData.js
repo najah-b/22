@@ -1,0 +1,25 @@
+export const VerbsWords = [
+    {
+        "id":1,
+        "img":"https://img.icons8.com/?size=100&id=0ms25zyMnmT6&format=png&color=000000",
+        "audio":"/Audio/eat.mp3",
+        "enW":"Eat", 
+        "arW":"ياكل",
+        "enSen":"Eat your food"
+    },
+    {"id":2,"img":"https://img.icons8.com/?size=100&id=40260&format=png&color=000000", "audio":"/Audio/drink.mp3", "enW":"Drink", "arW":"يشرب" , "enSen":"Drink water"},
+    {"id":3,"img":"https://img.icons8.com/?size=100&id=JBfK565DwIKl&format=png&color=000000", "audio":"/Audio/sleep.mp3", "enW":"Sleep", "arW":"ينام" , "enSen":"I sleep 8 hours"},
+    {"id":4,"img":"https://img.icons8.com/?size=100&id=bZLm7bns9S6W&format=png&color=000000", "audio":"/Audio/wakeup.mp3", "enW":"Wake up", "arW":"يستيقظ" , "enSen":"Wake up every 6:00am"},
+    {"id":5,"img":"https://img.icons8.com/?size=100&id=ZWF4MxugdPt6&format=png&color=000000", "audio":"/Audio/walk.mp3", "enW":"Walk", "arW":"يمشي" , "enSen":"Walk everyday"},
+    {"id":6,"img":"https://img.icons8.com/?size=100&id=UchIS6yFN4DY&format=png&color=000000", "audio":"/Audio/run.mp3", "enW":"Run", "arW":"ركض" , "enSen":"Run faster"},
+    {"id":7,"img":"https://img.icons8.com/?size=100&id=17036&format=png&color=000000", "audio":"/Audio/cry.mp3", "enW":"Cry", "arW":"يبكي" , "enSen":"The baby cry"},
+    {"id":8,"img":"https://img.icons8.com/?size=100&id=98huvVUFtEyB&format=png&color=000000", "audio":"/Audio/laugh.mp3", "enW":"Laugh", "arW":"يضحك" , "enSen":"He always laugh"},
+    {"id":9,"img":"https://img.icons8.com/?size=100&id=TLO6Xb2kV6Pp&format=png&color=000000", "audio":"/Audio/jump.mp3", "enW":"Jump", "arW":"قفز" , "enSen":"He can jump too high"},
+    {"id":10,"img":"https://img.icons8.com/?size=100&id=14798&format=png&color=000000", "audio":"/Audio/sit.mp3", "enW":"Sit", "arW":"جلوس" , "enSen":"Sit here please"},
+    {"id":11,"img":"https://img.icons8.com/?size=100&id=OYbFh7PuEW4n&format=png&color=000000", "audio":"/Audio/read.mp3", "enW":"Read", "arW":"يقرا" , "enSen":"Want to read with me ?"},
+    {"id":12,"img":"https://img.icons8.com/?size=100&id=13789&format=png&color=000000", "audio":"/Audio/draw.mp3", "enW":"Draw", "arW":"يرسم" , "enSen":"Draw is my hobby"},
+    {"id":13,"img":"https://img.icons8.com/?size=100&id=nuPHAGY0KFfX&format=png&color=000000", "audio":"/Audio/sing.mp3", "enW":"Sing", "arW":"يغني" , "enSen":"I like when he sing"},
+    {"id":14,"img":"https://img.icons8.com/?size=100&id=6XcAGLSJJRZc&format=png&color=000000", "audio":"/Audio/swim.mp3", "enW":"Swim", "arW":"يسبح" , "enSen":"Let's swim in the sea"},
+    {"id":15,"img":"https://img.icons8.com/?size=100&id=33507&format=png&color=000000", "audio":"/Audio/play.mp3", "enW":"Play", "arW":"يلعب" , "enSen":"I love to play football"},
+    {"id":16,"img":"https://img.icons8.com/?size=100&id=23322&format=png&color=000000", "audio":"/Audio/talk.mp3", "enW":"Talk", "arW":"يتحدث" , "enSen":"She talk so much"},
+]
